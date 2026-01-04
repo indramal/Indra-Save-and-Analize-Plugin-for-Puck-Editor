@@ -8,6 +8,8 @@
 
 This plugin enhances the Puck editor by providing functionality to save pages and blocks as JSX files, adds powerful inspection tools to view the DOM structure and Component hierarchy directly within the editor interface, and integrates Tailwind CSS breakpoints.
 
+![Full Page Overview](images/full_page.png)
+
 ## Features
 
 - **Save Page as JSX**: Export the entire page layout as a React functional component.
